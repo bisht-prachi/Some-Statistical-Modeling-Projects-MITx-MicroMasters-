@@ -1,20 +1,8 @@
 Statistical Modeling Projects – MITx MicroMasters
 This repository contains a collection of statistical modeling projects developed as part of MITx 6.419x: Data Analysis – Statistical Modeling and Computation in Applications, a core course in the MITx MicroMasters Program in Data Science and Statistics.
 
-Overview
-These projects demonstrate applied skills in:
-
-Probability and Statistical Inference
-
-Bayesian and Frequentist Modeling
-
-Data Analysis and Simulation
-
-Model Evaluation and Interpretation
-
 Each project reflects the use of real-world data and statistical computation to address complex analytical tasks, highlighting both theoretical understanding and practical implementation using Python.
 
-Contents
 📁 CAVIAR_criminal_network_analysis.ipynb
 Analyzes a criminal network dataset using the CAVIAR algorithm (Clustering and Visualizing Relationships) to infer hidden connections between suspects. Methodologies include:
 
